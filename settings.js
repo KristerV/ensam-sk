@@ -1,0 +1,3 @@
+Settings = {
+	siteTitle: 'Elamussõit'
+};
